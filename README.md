@@ -4,6 +4,6 @@ NPM	: 2206827945
 
 Kelas	: PBP D
 
-Hobi	: Ngoding (soon)
+Hobi	: Ngoding (soon bismillah)
 
 Jurusan	: Ilmu Komputer
